@@ -35,7 +35,6 @@ namespace CriacaoUsuarios.Controllers
                 GetAll();
                 return RedirectToAction("Index");
             }
-            ViewBag.Alerta = "Todos os dados devem ser preenchidos corretamente!";
             return View("Create");
         }
         // GET: Edit
@@ -50,11 +49,16 @@ namespace CriacaoUsuarios.Controllers
         {
             if (ValidaUsuario(usuario))
             {
+                Usuario user = new Usuario();
+                user = this.repo.GetById(usuario.Id);
+                if (user.Senha != usuario.Senha)
+                    return View("Edit");
+
                 this.repo.Save(usuario);
                 GetAll();
                 return RedirectToAction("Index");
             }
-            return Content("Todos os dados devem ser informados");
+            return View("Edit");
         }
         // Delete: Usuario:id
         public ActionResult Delete(int id)

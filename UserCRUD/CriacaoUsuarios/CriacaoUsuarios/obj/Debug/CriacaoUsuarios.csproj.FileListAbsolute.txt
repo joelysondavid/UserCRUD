@@ -1,94 +1,83 @@
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\ApplicationInsights.config
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\csc.exe
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.CSharp.Core.targets
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\System.Collections.Immutable.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\System.Reflection.Metadata.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\vbc.exe
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\VBCSCompiler.exe
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\VBCSCompiler.exe.config
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\CriacaoUsuarios.dll.config
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\CriacaoUsuarios.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\CriacaoUsuarios.pdb
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.Agent.Intercept.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.DependencyCollector.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.PerfCounterCollector.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.ServerTelemetryChannel.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.Web.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.WindowsServer.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.ApplicationInsights.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.Web.Infrastructure.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Helpers.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Mvc.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Razor.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.Deployment.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.Razor.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.DependencyCollector.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.ServerTelemetryChannel.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.Web.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.WindowsServer.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.ApplicationInsights.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Razor.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.Deployment.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.Razor.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Helpers.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Mvc.xml
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\obj\Debug\CriacaoUsuarios.dll
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\obj\Debug\CriacaoUsuarios.pdb
-F:\Challenge\CriacaoUsuarios\CriacaoUsuarios\obj\Debug\CriacaoUsuarios.csprojResolveAssemblyReference.cache
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\ApplicationInsights.config
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\csc.exe
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\vbc.exe
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\VBCSCompiler.exe
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\CriacaoUsuarios.dll.config
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\CriacaoUsuarios.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\CriacaoUsuarios.pdb
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.Web.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.ApplicationInsights.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Helpers.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Mvc.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Razor.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.Deployment.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.Razor.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.Web.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.ApplicationInsights.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Razor.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.Deployment.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Webpages.Razor.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Helpers.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\bin\System.Web.Mvc.xml
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\obj\Debug\CriacaoUsuarios.csprojAssemblyReference.cache
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\obj\Debug\CriacaoUsuarios.csproj.CoreCompileInputs.cache
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\obj\Debug\CriacaoUsuarios.csproj.CopyComplete
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\obj\Debug\CriacaoUsuarios.dll
-C:\Users\Joelyson David\Documents\Works\Projetos\CadastroUsuario\UserCRUD\CriacaoUsuarios\CriacaoUsuarios\obj\Debug\CriacaoUsuarios.pdb
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\csc.exe
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\csc.exe.config
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\csc.rsp
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\csi.exe
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\csi.exe.config
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\csi.rsp
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.AppContext.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Console.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.IO.Compression.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Security.Claims.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.ValueTuple.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\vbc.exe
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\vbc.exe.config
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\vbc.rsp
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\Antlr3.Runtime.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\Newtonsoft.Json.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.Helpers.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.Mvc.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.Optimization.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.Razor.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.WebPages.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\WebGrease.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.Helpers.xml
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.Mvc.xml
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.Optimization.xml
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.Razor.xml
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.WebPages.xml
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\Newtonsoft.Json.xml
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\Antlr3.Runtime.pdb
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\obj\Debug\CriacaoUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\obj\Debug\CriacaoUsuarios.csproj.CopyComplete
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\CriacaoUsuarios.dll.config
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\CriacaoUsuarios.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\bin\CriacaoUsuarios.pdb
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\obj\Debug\CriacaoUsuarios.dll
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\obj\Debug\CriacaoUsuarios.pdb
+C:\Users\Joelyson David\Desktop\Challenge\CriacaoUsuario\CriacaoUsuario\obj\Debug\CriacaoUsuarios.csprojAssemblyReference.cache

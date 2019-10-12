@@ -16,7 +16,7 @@ namespace CriacaoUsuarios.Persistence
         SqlConnection connection = DBConnection.DB_Connection;
 
         // obter usuario pelo id
-        public Usuario GetById(int id)
+        public Usuario GetById(int? id)
         {
             Usuario usuario = new Usuario();
             var command = new SqlCommand("SELECT Id, Nome, Email, Senha, ConfirmaSenha FROM Usuarios WHERE Id = @Id",connection);

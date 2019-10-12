@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<CriacaoUsuarios.Models.Usuario> 
 
 @{
-    Layout = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <!DOCTYPE html>
@@ -10,42 +10,34 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Index</title>
+    <meta charset="utf-8" />
 </head>
 <body>
-    <p>
-        @Html.ActionLink("Adicionar novo usuário", "Create") <!-- O segundo parametro 'Create' é action que será executada -->
-    </p>
+        <p style="text-align:right">
+            @Html.ActionLink("Adicionar novo usuário", "Create") <!-- O segundo parametro 'Create' é action que será executada -->
+        </p>
     <table class="table">
-        <tr>
-            <th>
+        <tr >
+            <th style="text-align:center">
                 @Html.DisplayNameFor(model => model.Nome)
             </th>
-            <th>
+            <th style="text-align:center">
                 @Html.DisplayNameFor(model => model.Email)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Senha)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ConfimaSenha)
+            <th style="text-align:center">
+                Opções
             </th>
             <th></th>
-        </tr>
+        </trstyle="text-align:center">
 
         @foreach (var item in Model)
         {
-            <tr>
+            <tr style="text-align: center">
                 <td>
                     @Html.DisplayFor(modelItem => item.Nome)
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Email)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Senha)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.ConfimaSenha)
                 </td>
                 <td>
                     @Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
@@ -54,11 +46,6 @@
                 </td>
             </tr>
         }
-
-
     </table>
-
-    <script src="~/scripts/bootstrap.js"></script>
-    <script src="~/scripts/bootstrap.min.js"></script>
 </body>
 </html>
