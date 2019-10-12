@@ -11,4 +11,5 @@ CREATE TABLE Usuarios (
 
 -- INSERÇÃO TESTE
 INSERT INTO Usuarios VALUES('Joelyson','Joe@email', '123', '123');
-SELECT * FROM Usuarios;
+INSERT INTO Usuarios VALUES('Joe','dav@gmail', '123', '123');
+SELECT * FROM Usuarios ORDER BY Nome;

@@ -19,7 +19,8 @@ namespace CriacaoUsuarios.Persistence
             {
                 if (instance == null)
                 {
-                    instance = new SqlConnection(@"Data Source=BIBLI43\SQLEXPRESS; Initial Catalog=Usuarios; Trusted_Connection=True;");
+                    // não esquecer de alterar o Data Source para a conexão de SQLServer Usada na máquida em que está sendo testada
+                    instance = new SqlConnection(@"Data Source=JDKS-PC\SQLEXPRESS; Initial Catalog=Usuarios; Trusted_Connection=True;");
                 }
                 return instance;
             }

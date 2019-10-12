@@ -39,13 +39,28 @@ namespace CriacaoUsuarios.Persistence
         // obtendo todos os usuarios
         public IList<Usuario> GetAll()
         {
+            // lista de usuarios
             IList<Usuario> usuarios = new List<Usuario>();
-            var adapter = new SqlDataAdapter("SELECT Id, Nome, Email, Senha, ConfimaSenha FROM Usuarios", connection);
-            var builder = new SqlCommandBuilder(adapter);
+            // cria uma query adapter para executar o comando de seleção de usuários
+            var adapter = new SqlDataAdapter("SELECT Id, Nome, Email, Senha, ConfirmaSenha FROM Usuarios", connection);
+            var builder = new SqlCommandBuilder(adapter); // buida "executa" o comando
+            // cria uma data table
             var table = new DataTable();
-            adapter.Fill(table);
-            
-            connection.Close();
+            // filtra os dados que foram recebidos na execução do build e passa para a table
+            adapter.Fill(table);            
+            connection.Close(); // fecha aconexao (sempre que o "build" é realizado ele automaticamente abre a conexao e a executa temos de fechar apos o filtro)
+            for(int i = 0; i<table.Rows.Count; i++)
+            {
+                var row = table.Rows[i]; // cria uma variavel que recebe cada linha da table
+                usuarios.Add(new Usuario {
+                    Id=Convert.ToInt32(row["Id"]), // converte o dado contido na coluna Id em inteiro
+                    Nome=(string)row["Nome"], // realiza um cast no dado da coluna nome para string
+                    Email=(string)row["Email"],
+                    Senha=(string)row["Senha"],
+                    ConfimaSenha=(string)row["ConfirmaSenha"]
+                });
+
+            }
             return usuarios;
         }
 
@@ -63,7 +78,7 @@ namespace CriacaoUsuarios.Persistence
         public void Insert(Usuario usuario)
         {
             // comando para inserir dados na tabela de usuarios
-            var command = new SqlCommand("INSERT INTO Usuarios (Nome, Email, Senha, ConfirmaSenha) VALUES (@Nome, @Email, @Senha, @ConfiraSenha)", connection);
+            var command = new SqlCommand("INSERT INTO Usuarios (Nome, Email, Senha, ConfirmaSenha) VALUES (@Nome, @Email, @Senha, @ConfirmaSenha)", connection);
             // add os parametros que foram passados
             command.Parameters.AddWithValue("@Nome", usuario.Nome);
             command.Parameters.AddWithValue("@Email", usuario.Email);
@@ -78,7 +93,7 @@ namespace CriacaoUsuarios.Persistence
         public void Update(Usuario usuario)
         {            
             // comando para atualizar dados na tabela de usuarios
-            var command = new SqlCommand("UPDATE Usuarios SET Nome=@Nome, SET Email=@Email, SET Senha=@Senha, SET ConfirmaSenha=@ConfirmaSenha WHERE Id = @Id", connection);
+            var command = new SqlCommand("UPDATE Usuarios SET Nome=@Nome, Email=@Email, Senha=@Senha, ConfirmaSenha=@ConfirmaSenha WHERE Id = @Id", connection);
             // adicionando os parametros passados
             command.Parameters.AddWithValue("@Id", usuario.Id);
             command.Parameters.AddWithValue("@Nome", usuario.Nome);
@@ -94,12 +109,11 @@ namespace CriacaoUsuarios.Persistence
         public void Delete(int id)
         {
             // comando para deltar
-            var command = new SqlCommand("DELETE Usuario WHERE Id=@Id", this.connection);
+            var command = new SqlCommand("DELETE Usuarios WHERE Id=@Id", this.connection);
             command.Parameters.AddWithValue("@Id", id); // parametro do Id
             connection.Open();
             command.ExecuteNonQuery();
             connection.Close();
         }
-
     }
 }
