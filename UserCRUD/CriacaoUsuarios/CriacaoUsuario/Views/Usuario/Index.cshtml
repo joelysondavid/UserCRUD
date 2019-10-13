@@ -14,7 +14,11 @@
 </head>
 <body>
         <p style="text-align:right">
-            @Html.ActionLink("Adicionar novo usuário", "Create") <!-- O segundo parametro 'Create' é action que será executada -->
+            <a href="@Url.Action("Create")" class="btn btn-success">
+                <span class="glyphicon gliphicon-plus"></span>
+                Novo Usuário
+                @* @Html.ActionLink("Adicionar novo usuário", "Create") <!-- O segundo parametro 'Create' é action que será executada -->*@
+            </a>
         </p>
     <table class="table">
         <tr >
