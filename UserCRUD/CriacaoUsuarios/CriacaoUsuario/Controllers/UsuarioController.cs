@@ -51,8 +51,6 @@ namespace CriacaoUsuarios.Controllers
             {
                 Usuario user = new Usuario();
                 user = this.repo.GetById(usuario.Id);
-                if (user.Senha != usuario.Senha)
-                    return View("Edit");
 
                 this.repo.Save(usuario);
                 GetAll();
